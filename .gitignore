@@ -3,4 +3,4 @@ out/
 .idea/
 
 # Untracked files
-battle-bot.iml
+*.iml
